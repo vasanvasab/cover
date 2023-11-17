@@ -113,6 +113,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![OUTPUT-6](https://github.com/vasanvasab/cover/assets/143481226/f79d0f15-547e-450c-aa29-639e4c1ead4e)
 
 
 ## RESULT:
